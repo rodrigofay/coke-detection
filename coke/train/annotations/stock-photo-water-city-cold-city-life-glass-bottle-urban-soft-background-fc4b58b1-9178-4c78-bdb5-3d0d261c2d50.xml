@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>stock-photo-water-city-cold-city-life-glass-bottle-urban-soft-background-fc4b58b1-9178-4c78-bdb5-3d0d261c2d50.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/stock-photo-water-city-cold-city-life-glass-bottle-urban-soft-background-fc4b58b1-9178-4c78-bdb5-3d0d261c2d50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>149</ymin>
+			<xmax>403</xmax>
+			<ymax>372</ymax>
+		</bndbox>
+	</object>
+</annotation>

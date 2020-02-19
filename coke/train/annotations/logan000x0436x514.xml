@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>logan000x0436x514.jpeg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/logan000x0436x514.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>436</width>
+		<height>514</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>232</ymin>
+			<xmax>146</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>

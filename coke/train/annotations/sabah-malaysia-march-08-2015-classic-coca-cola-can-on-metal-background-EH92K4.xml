@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>sabah-malaysia-march-08-2015-classic-coca-cola-can-on-metal-background-EH92K4.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/sabah-malaysia-march-08-2015-classic-coca-cola-can-on-metal-background-EH92K4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>675</xmin>
+			<ymin>143</ymin>
+			<xmax>948</xmax>
+			<ymax>632</ymax>
+		</bndbox>
+	</object>
+</annotation>

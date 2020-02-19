@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>615086ef-e590-43d0-8390-2d2302902a0c.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/615086ef-e590-43d0-8390-2d2302902a0c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>83</ymin>
+			<xmax>343</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

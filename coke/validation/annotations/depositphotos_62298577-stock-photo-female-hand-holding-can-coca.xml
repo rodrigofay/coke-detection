@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>depositphotos_62298577-stock-photo-female-hand-holding-can-coca.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/depositphotos_62298577-stock-photo-female-hand-holding-can-coca.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>741</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>116</ymin>
+			<xmax>840</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

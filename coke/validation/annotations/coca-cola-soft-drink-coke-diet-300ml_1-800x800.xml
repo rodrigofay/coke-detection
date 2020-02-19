@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>coca-cola-soft-drink-coke-diet-300ml_1-800x800.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/coca-cola-soft-drink-coke-diet-300ml_1-800x800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>221</ymin>
+			<xmax>483</xmax>
+			<ymax>731</ymax>
+		</bndbox>
+	</object>
+</annotation>

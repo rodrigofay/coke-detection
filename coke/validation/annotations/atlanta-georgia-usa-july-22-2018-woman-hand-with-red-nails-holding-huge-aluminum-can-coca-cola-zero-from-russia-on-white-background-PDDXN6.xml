@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>atlanta-georgia-usa-july-22-2018-woman-hand-with-red-nails-holding-huge-aluminum-can-coca-cola-zero-from-russia-on-white-background-PDDXN6.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/atlanta-georgia-usa-july-22-2018-woman-hand-with-red-nails-holding-huge-aluminum-can-coca-cola-zero-from-russia-on-white-background-PDDXN6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>866</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>562</ymin>
+			<xmax>537</xmax>
+			<ymax>948</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>coke-red-can.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/coke-red-can.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1333</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>410</ymin>
+			<xmax>493</xmax>
+			<ymax>1294</ymax>
+		</bndbox>
+	</object>
+</annotation>

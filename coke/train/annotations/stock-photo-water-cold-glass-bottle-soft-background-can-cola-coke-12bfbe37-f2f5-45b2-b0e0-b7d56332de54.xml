@@ -1,0 +1,26 @@
+<annotation>
+	<folder>coke</folder>
+	<filename>stock-photo-water-cold-glass-bottle-soft-background-can-cola-coke-12bfbe37-f2f5-45b2-b0e0-b7d56332de54.jpg</filename>
+	<path>/home/rodrigo/Desktop/BB_GO/data/coke/stock-photo-water-cold-glass-bottle-soft-background-can-cola-coke-12bfbe37-f2f5-45b2-b0e0-b7d56332de54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>424</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coke</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>75</ymin>
+			<xmax>358</xmax>
+			<ymax>424</ymax>
+		</bndbox>
+	</object>
+</annotation>
